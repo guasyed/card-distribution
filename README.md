@@ -10,7 +10,7 @@ Supports Docker for isolated development
 Error handling for irregular cases as per specification
 
 🚀 Tech Stack
-Backend: PHP 7.4
+Backend: PHP 7.4 - 8.3
 Frontend: ReactJS v16
 Containerization: Docker, Docker Compose
 Compatibility: Node v12+, MySQL 5.7+, Chrome Browser
@@ -18,7 +18,7 @@ Compatibility: Node v12+, MySQL 5.7+, Chrome Browser
 ⚙️ Setup Instructions
 1. Clone the Repo
    ```bash
-   git clone https://github.com/yourusername/card-distribution.git
+   git clone https://github.com/guasyed/card-distribution.git
    cd card-distribution
    ```
 2. Run with Docker (Recommended)
